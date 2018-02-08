@@ -1,3 +1,6 @@
+# 0.2.9 / 2018-02-08
+* Changed from css files to scss files
+
 # 0.2.0 / 2012-10-12
 * Fancybox2 fork is now released as it's own gem.
 
