@@ -1,3 +1,6 @@
+# 0.2.10 / 2018-02-09
+* Support Rails 5.1.4
+
 # 0.2.9 / 2018-02-08
 * Changed from css files to scss files
 
